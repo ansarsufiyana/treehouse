@@ -1,0 +1,22 @@
+.app__price-img span{
+    text-decoration: underline;
+}
+
+
+.app__price-img h1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 56px;
+    word-spacing: 20px;
+    letter-spacing: 2px;
+}
+
+.app__price-img{
+    background-image: url("../../img/youroder.jpg");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}

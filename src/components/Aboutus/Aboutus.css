@@ -1,0 +1,41 @@
+.app__aboutus-main{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.app__aboutus-text{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    
+}
+/* .app__aboutus-text button{
+    
+} */
+
+.app__aboutus-text img{
+    width: 15%;
+    height: 15%;
+    margin: 2rem 0;
+
+}
+.app__aboutus-text p{
+    text-align: justify;
+    margin: 2rem 2rem;
+}
+
+.app__aboutus-imgs{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.app__aboutus-imgs img{
+    width: 35%;
+    height: auto;
+}

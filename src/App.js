@@ -1,5 +1,7 @@
 
 import './App.css';
+import Aboutus from './components/Aboutus/Aboutus';
+import Price from './components/afordableprice/Price';
 import Header from './components/header/Header';
 import Navbar from './components/Navbar/Navbar';
 
@@ -8,7 +10,8 @@ function App() {
     <div className="App">
       < Navbar />
       <Header />
-      <h1>my app</h1>
+      <Aboutus />
+      < Price />
     </div>
   );
 }
