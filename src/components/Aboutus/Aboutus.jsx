@@ -1,10 +1,7 @@
 import React from "react";
 import './Aboutus.css'
 import Fork from "../../components/icons/fork.jpeg";
-import Rice from "../../img/rice.jpg"
-import Burger from "../../img/burger.jpg"
-import Chapshro from "../../img/chapshro.jpg"
-import Food from "../../img/food.jpg"
+import {images} from "../../constans"
 
 function Aboutus() {
   return (
@@ -21,10 +18,10 @@ function Aboutus() {
         </p>
       </div>
       <div className="app__aboutus-imgs">
-        <img src= {Rice} alt="" />
-        <img src= {Burger} alt="" />
-        <img src= {Chapshro} alt="" />
-        <img src= {Food} alt="" />
+        <img src= {images.Rice} alt="rice" />
+        <img src= {images.Burger} alt="burger" />
+        <img src= {images.Chapshro} alt="chapshro" />
+        <img src= {images.Food} alt="food" />
       </div>
     </div>
   );

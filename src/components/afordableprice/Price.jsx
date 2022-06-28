@@ -1,6 +1,5 @@
 import React from 'react'
 import './Price.css'
-// import Oder from "../../img/youroder.jpg"
 
 function Price() {
   return (

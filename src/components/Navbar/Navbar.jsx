@@ -1,12 +1,12 @@
 import React from "react";
 import "./Navbar.css";
-import Name from '../../img/name02.png'
+import {images} from "../../constans"
 
 function Navbar() {
   return (
     <div className="app__navbar-main">
       <div className="app__navbar-logo">
-        <img src={Name} alt="Name" />
+        <img src={images.Name02} alt="Name" />
       </div>
       <div className="app__navbar-links">
         <a href="#home">Home</a>
