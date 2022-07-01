@@ -1,0 +1,17 @@
+.app__items-names{
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+    margin: 1rem 0;
+}
+
+.app__items-imgs{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.app__items-imgs img{
+    width: 20%;
+    height: 30%;
+}

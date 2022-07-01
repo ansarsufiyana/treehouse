@@ -13,13 +13,16 @@ function Items() {
                 <h2>Dinner</h2>
         </div>
         <div className="app__items-imgs">
-                <img src={images.Burger} alt="" />
-                <img src={images.Chapshro} alt="" />
-                <img src={images.Food} alt="" />
-                <img src={images.Food01} alt="" />
-                <img src={images.Youroder} alt="" />
-                <img src={images.Rice} alt="" />
-                <img src={images.Name} alt="" />
+                <img src={images.Burger} alt="Burger" />
+                <img src={images.Chapshroo} alt="Chapshroo" />
+                <img src={images.Food} alt="Food" />
+                <img src={images.Food01} alt="Food1" />
+                <img src={images.Rice} alt="Rice" />
+                <img src={images.Karahi} alt="Karahi" />
+                <img src={images.Fries} alt="Fries" />
+                <img src={images.Nan} alt="Nan" />
+                <img src={images.Sheek} alt="Sheek" />
+                <img src={images.Tea} alt="Tea" />
         </div>
       </div>
     </div>
