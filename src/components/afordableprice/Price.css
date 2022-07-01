@@ -15,7 +15,7 @@
 }
 
 .app__price-img{
-    background-image: url("../../Assets/youroder.jpg");
+    background-image: url("../../Assets/background.jpg");
     background-size: cover;
     height: 100vh;
     position: relative;

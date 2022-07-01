@@ -18,10 +18,10 @@ function Aboutus() {
         </p>
       </div>
       <div className="app__aboutus-imgs">
-        <img src= {images.Rice} alt="rice" />
+        <img src= {images.Muttonkheema} alt="Muttonkheema" />
         <img src= {images.Burger} alt="burger" />
-        <img src= {images.Chapshro} alt="chapshro" />
-        <img src= {images.Food} alt="food" />
+        <img src= {images.Milkcoffee} alt="Milkcoffee" />
+        <img src= {images.Chickenbiryani} alt="Chickenbiryani" />
       </div>
     </div>
   );

@@ -6,10 +6,10 @@ function Navbar() {
   return (
     <div className="app__navbar-main">
       <div className="app__navbar-logo">
-        <img src={images.Name02} alt="Name" />
+        <img src={images.Namelogo} alt="Name" />
       </div>
       <div className="app__navbar-links">
-        <a href="#home">Home</a>
+        <a href="">Home</a>
         <a href="">View</a>
         <a href="">Menu</a>
         <a href="">Images</a>
