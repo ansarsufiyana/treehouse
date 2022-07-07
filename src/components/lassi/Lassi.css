@@ -1,0 +1,26 @@
+.app__lassi-main{
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+}
+.app__lassi-img{
+    flex: 1;
+    text-align: center;
+}
+
+.app__lassi-text{
+    flex: 1;
+
+}
+
+.app__lassi-text h1{
+    text-align: center;
+    margin: 2rem 0;
+    border: 2px solid black;
+    
+}
+
+.app__lassi-img img{
+    width: 80%;
+    height: 80%;
+}

@@ -6,7 +6,7 @@ function Header() {
   return (
     <div className="app__header-main">
       <div className="app__header-img">
-        <h1><span>Tree</span>House</h1>
+        <h1><span>Tree</span> House</h1>
       </div>
     </div>
   );

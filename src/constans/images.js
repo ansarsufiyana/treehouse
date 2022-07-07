@@ -18,6 +18,7 @@ import Name from '../Assets/name01.jpg';
 import Sheek from '../Assets/sheek-kebab.jpg';
 import Kebab from '../Assets/kebab.jpg';
 import Tea from '../Assets/tea.jpg';
+import Lassi from '../Assets/lassi.jpg';
 import Namelogo from '../Assets/name02.png';
 
 
@@ -43,5 +44,6 @@ export default {
    Sheek,
    Tea,
    Kebab,
+   Lassi,
 
 };

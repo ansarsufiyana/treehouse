@@ -1,0 +1,22 @@
+.app__greatplace-text span{
+    text-decoration: underline;
+}
+
+
+.app__greatplace-text h1{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+    font-size: 56px;
+    /* word-spacing: 20px; */
+    letter-spacing: 2px;
+}
+
+.app__greatplace-text{
+    background-image: url("../../Assets/background-7.jpg");
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+}

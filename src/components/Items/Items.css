@@ -9,9 +9,11 @@
 .app__items-imgs{
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 .app__items-imgs img{
     width: 20%;
     height: 30%;
+    margin: 0.5rem;
 }
