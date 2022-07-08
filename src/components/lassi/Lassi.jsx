@@ -10,7 +10,9 @@ function Lassi() {
           <img src={images.Lassi} alt="" />
         </div>
         <div className="app__lassi-text">
-          <h1>OUR LASSI</h1>
+          <div className="app__lassi-button">
+          <button>OUR LASSI</button>
+          </div>
           <p>
             Here at Restaurant we’re all about the love of Lassi. New and bold
             flavors enter our doors every week, and we can’t help but show them

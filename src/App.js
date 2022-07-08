@@ -2,6 +2,7 @@
 import './App.css';
 import Aboutus from './components/Aboutus/Aboutus';
 import Price from './components/afordableprice/Price';
+import Breakfast from './components/breakfast/Breakfast';
 import Greatplace from './components/greatplace/Greatplace';
 import Header from './components/header/Header';
 import Items from './components/Items/Items';
@@ -18,6 +19,7 @@ function App() {
       < Items />
       <Greatplace />
       <Lassi />
+      < Breakfast />
     </div>
   );
 }

@@ -1,7 +1,7 @@
 .app__lassi-main{
     display: flex;
     justify-content: center;
-    margin: 1rem 0;
+    margin: 2rem 0;
 }
 .app__lassi-img{
     flex: 1;
@@ -13,14 +13,20 @@
 
 }
 
-.app__lassi-text h1{
+.app__lassi-button{
     text-align: center;
-    margin: 2rem 0;
+}
+
+.app__lassi-text button{
+    padding: 0.6rem 2rem;
+    margin: 1rem 0;
+    font-size: 1rem;
     border: 2px solid black;
     
 }
 
 .app__lassi-img img{
-    width: 80%;
+    width: 70%;
     height: 80%;
+    justify-content: center;
 }
